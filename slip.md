@@ -74,8 +74,10 @@ very fun
 
 # how to use slip
 
-http://slip.sane.jp/*url*
+http://slip.sane.jp/ *url*
+
 you put markdown file url to *url*
+
 http://slip.sane.jp/http://github.com/sanemat/seeds/raw/master/slip.md
 
 !SLIDE
@@ -83,8 +85,13 @@ http://slip.sane.jp/http://github.com/sanemat/seeds/raw/master/slip.md
 # enjoy your presentaion life!
 
 contact me
+
 sanemat
+
 [web site](http://sane.jp/)
+
 [weblog](http://sane.justblog.jp/)
+
 [twitter:sanemat](http://twitter.com/sanemat)
+
 [github:sanemat](http://github.com/sanemat)

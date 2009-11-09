@@ -18,12 +18,12 @@
 * murahashi kenichi (a.k.a sanemat)
 * web programmer
 * use
-** ruby
-*** Ruby Association Certified Ruby Programmer Silver
-** php
+    * ruby
+        * Ruby Association Certified Ruby Programmer Silver
+    * php
 * love
-** ruby on rails
-** cakephp
-** anather micro framework
-*** sinatra(ruby)
-*** limonade(php)
+    * ruby on rails
+    * cakephp
+    * anather micro framework
+        * sinatra(ruby)
+        * limonade(php)

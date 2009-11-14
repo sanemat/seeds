@@ -113,3 +113,14 @@ and send request for google analytics server
 
 # what's a better idea?
 
+contact me
+
+sanemat
+
+[web site](http://sane.jp/)
+
+[weblog](http://sane.justblog.jp/)
+
+[twitter:sanemat](http://twitter.com/sanemat)
+
+[github:sanemat](http://github.com/sanemat)

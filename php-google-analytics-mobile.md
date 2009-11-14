@@ -54,7 +54,12 @@ unoficaily google analytics server side
 
 !SLIDE
 
-# too bad php snipet...
+# too bad php sample...
+    <?php
+      $googleAnalyticsImageUrl = googleAnalyticsGetImageUrl();
+    ?>
+    <img src="<?= $googleAnalyticsImageUrl ?>" />
+    Testing: <?= $googleAnalyticsImageUrl ?>
 
 !SLIDE
 

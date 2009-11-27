@@ -1,6 +1,35 @@
 # server side google analytics
 
 !SLIDE
+
+# agenda
+
+## website analyzing
+* easy
+    * get count server raw access log
+        * count too many logs is not easy, but it is another topic.
+* hard
+    * make it valuable group by. it is raw ore.
+    * visualize
+
+!SLIDE
+
+# self introduction
+
+* murahashi kenichi (a.k.a sanemat)
+* web programmer
+* use
+    * ruby
+        * Ruby Association Certified Ruby Programmer Silver
+    * php
+* love
+    * ruby on rails
+    * cakephp
+    * yet another micro framework
+        * sinatra (ruby)
+        * limonade (php)
+
+!SLIDE
 # web analytics
 * web beacon type
     * urchin

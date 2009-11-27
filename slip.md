@@ -24,7 +24,7 @@
 * love
     * ruby on rails
     * cakephp
-    * another micro framework
+    * yet another micro framework
         * sinatra (ruby)
         * limonade (php)
 

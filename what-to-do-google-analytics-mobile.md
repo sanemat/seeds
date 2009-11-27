@@ -25,6 +25,10 @@
         * limonade (php)
 
 !SLIDE
+* request php snipet from image tag
+* query and referrer add to query-string
+
+!SLIDE
 
 contact me
 

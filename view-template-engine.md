@@ -45,6 +45,13 @@
 * [wicket]
 
 !SLIDE
+same data but diffarent for viewer's device
+
+same validation rule but device dependancy
+
+not only template-engine but it's plugin
+
+!SLIDE
 # tutorial resource in japanese
 
 * [Catyスクリプト：まだ出来てないけどチュートリアル - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20090907/1252284661)

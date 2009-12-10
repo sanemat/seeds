@@ -32,7 +32,22 @@
 * plain php
 * [Tenjin](http://www.kuwata-lab.com/tenjin/)
 * [Caty](http://bitbucket.org/m_hiyama/caty-python-proto1/)
+* [Haml](http://haml-lang.com/)
+* [django]
+* [PHPTAL]
+* [Twig]
+* [Template::Toolkit]
+* [rhaco]
+* [Template::MicroTemplate]
+* [Text::MicroTemplate::Extended]
+* [wicket]
 
+!SLIDE
+# tutorial resource in japanese
+
+* [Catyスクリプト：まだ出来てないけどチュートリアル - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20090907/1252284661)
+* [日本Hamlの会](http://haml.ursm.jp/)
+* [面白ラボBM11(ブッコミイレブン) 2009: Text::MicroTemplate::Extended](http://bm11.kayac.com/2009/project/text-microtemplate-extended/)
 
 !SLIDE
 

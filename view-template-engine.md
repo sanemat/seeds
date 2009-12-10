@@ -1,4 +1,4 @@
-# plain php is template-engine enough?
+# by oneself OR separation ?
 
 !SLIDE
 
@@ -6,9 +6,11 @@
 
 * various template-engine
 
-* required functions
+* requirement depend on purpose
 
-* modern?
+* by oneself?
+
+* separation?
 
 !SLIDE
 

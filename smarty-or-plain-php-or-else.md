@@ -4,7 +4,7 @@
 !SLIDE
 # template engine?
 "Smarty already exists."  
-"Plain PHP is good template engine."
+"Plain PHP is good template engine."  
 
 !SLIDE
 YES

@@ -48,6 +48,38 @@ YES
 * [wicket](http://wicket.apache.org/)
 
 !SLIDE
+Programmer by oneself
+
+DRY
+No complex HTML & CSS
+Template inheritance
+Testable
+
+Ajax & HTML5
+toward ExtJS
+PHP template engine?
+
+!SLIDE
+Separation
+
+Sandbox
+default html-escaped
+responsibility
+dreamweaver-friendly
+
+template engine?
+
+!SLIDE
+#Smarty
+PHPer use framework.
+big framework has own template engine.
+cakephp have plain php and helper class.
+if framework have plugin system, it only for one framework.
+Smarty however, work with many framework bad way.
+ANd how to use with smarty knowledge is shared.
+Like QuickForm.
+
+!SLIDE
 same data but diffarent for viewer's device  
 same validation rule but device dependancy  
 not only template-engine but it's plugin  

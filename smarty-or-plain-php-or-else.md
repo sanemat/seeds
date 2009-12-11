@@ -1,22 +1,25 @@
-# by oneself OR separation ?
-## about template-engine
+# Smarty OR Plain PHP OR any template-engine ?
+## by oneself OR separation
 
 !SLIDE
+# template engine?
+"Smarty already exists."  
+"Plain PHP is good template engine."
 
+!SLIDE
+YES
+
+!SLIDE
 # agenda
-
 * various template-engine
-
 * requirement depend on purpose
-
-* by oneself?
-
-* separation?
+    * by oneself?
+    * separation?
+* Smarty
+* Plain PHP
 
 !SLIDE
-
 # self introduction
-
 * murahashi kenichi (a.k.a sanemat)
 * web programmer
 * use

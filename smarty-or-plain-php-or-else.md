@@ -16,7 +16,6 @@ YES
     * by oneself?
     * separation?
 * Smarty
-* Plain PHP
 
 !SLIDE
 # self introduction
@@ -63,16 +62,18 @@ not only template-engine but it's plugin
 * [面白ラボBM11(ブッコミイレブン) 2009: Text::MicroTemplate::Extended](http://bm11.kayac.com/2009/project/text-microtemplate-extended/)
 
 !SLIDE
+# template engine?
+"Smarty already exists."  
+"Plain PHP is good template engine."
 
-contact me
+!SLIDE
+YES
 
-sanemat
-
-[web site](http://sane.jp/)
-
-[weblog](http://sane.justblog.jp/)
-
-[twitter:sanemat](http://twitter.com/sanemat)
-
-[github:sanemat](http://github.com/sanemat)
-
+!SLIDE
+# but think porpose!
+contact me  
+sanemat  
+[web site](http://sane.jp/)  
+[weblog](http://sane.justblog.jp/)  
+[twitter:sanemat](http://twitter.com/sanemat)  
+[github:sanemat](http://github.com/sanemat)  

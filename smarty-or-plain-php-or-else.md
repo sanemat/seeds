@@ -71,13 +71,13 @@ template engine?
 
 !SLIDE
 #Smarty
-PHPer use framework.
-big framework has own template engine.
-cakephp have plain php and helper class.
-if framework have plugin system, it only for one framework.
-Smarty however, work with many framework bad way.
-ANd how to use with smarty knowledge is shared.
-Like QuickForm.
+PHPer also use framework.  
+big framework has own template engine.  
+cakephp have plain php and helper class.  
+if framework have plugin system, it only for one framework.  
+Smarty however, work with many framework bad way.  
+ANd how to use with smarty knowledge is shared.  
+Like QuickForm.  
 
 !SLIDE
 same data but diffarent for viewer's device  

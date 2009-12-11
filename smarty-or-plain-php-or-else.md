@@ -34,25 +34,23 @@ YES
 
 !SLIDE
 * [Smarty](http://www.smarty.net/)
-* plain php
+* [Plain PHP](http://www.php.net/)
 * [Tenjin](http://www.kuwata-lab.com/tenjin/)
 * [Caty](http://bitbucket.org/m_hiyama/caty-python-proto1/)
 * [Haml](http://haml-lang.com/)
-* [django]
-* [PHPTAL]
-* [Twig]
-* [Template::Toolkit]
-* [rhaco]
-* [Template::MicroTemplate]
-* [Text::MicroTemplate::Extended]
-* [wicket]
+* [Django](http://www.djangoproject.com/)
+* [PHPTAL](http://phptal.org/)
+* [Twig](http://www.twig-project.org/)
+* [Template::Toolkit](http://search.cpan.org/dist/Template-Toolkit/)
+* [rhaco](http://rhaco.org/)
+* [Text::MicroTemplate](http://search.cpan.org/dist/Text-MicroTemplate/)
+* [Text::MicroTemplate::Extended](http://search.cpan.org/dist/Text-MicroTemplate-Extended/)
+* [wicket](http://wicket.apache.org/)
 
 !SLIDE
-same data but diffarent for viewer's device
-
-same validation rule but device dependancy
-
-not only template-engine but it's plugin
+same data but diffarent for viewer's device  
+same validation rule but device dependancy  
+not only template-engine but it's plugin  
 
 !SLIDE
 # tutorial resource in japanese

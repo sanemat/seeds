@@ -104,7 +104,81 @@ haml example via [日本hamlの会](http://haml.ursm.jp/)
 
 !SLIDE
 No complex HTML & CSS
+
+!SLIDE
 Template inheritance
+
+!SLIDE code
+django example via [Django テンプレート言語 ― Django v1.0 documentation](http://djangoproject.jp/doc/ja/1.0/topics/templates.html)  
+(base.html)  
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <link rel="stylesheet" href="style.css" />
+        <title>{% block title %}My amazing site{% endblock %}</title>
+    </head>
+    
+    <body>
+        <div id="sidebar">
+            {% block sidebar %}
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/blog/">Blog</a></li>
+            </ul>
+            {% endblock %}
+        </div>
+    
+        <div id="content">
+            {% block content %}{% endblock %}
+        </div>
+    </body>
+    </html>
+
+!SLIDE code
+django example via [Django テンプレート言語 ― Django v1.0 documentation](http://djangoproject.jp/doc/ja/1.0/topics/templates.html)  
+(base_SECTIONNAME.html)  
+    {% extends "base.html" %}
+    
+    {% block title %}My amazing blog{% endblock %}
+    
+    {% block content %}
+    {% for entry in blog_entries %}
+        <h2>{{ entry.title }}</h2>
+        <p>{{ entry.body }}</p>
+    {% endfor %}
+    {% endblock %}
+
+!SLIDE code
+django example via [Django テンプレート言語 ― Django v1.0 documentation](http://djangoproject.jp/doc/ja/1.0/topics/templates.html)  
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <link rel="stylesheet" href="style.css" />
+        <title>My amazing blog</title>
+    </head>
+    
+    <body>
+        <div id="sidebar">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/blog/">Blog</a></li>
+            </ul>
+        </div>
+    
+        <div id="content">
+            <h2>Entry one</h2>
+            <p>This is my first entry.</p>
+    
+            <h2>Entry two</h2>
+            <p>This is my second entry.</p>
+        </div>
+    </body>
+    </html>
+
+
+!SLIDE
 Testable
 
 Ajax & HTML5
@@ -132,16 +206,11 @@ ANd how to use with smarty knowledge is shared.
 Like QuickForm.  
 
 !SLIDE
-same data but diffarent for viewer's device  
-same validation rule but device dependancy  
-not only template-engine but it's plugin  
-
-!SLIDE
 # tutorial resource in japanese
-
 * [Catyスクリプト：まだ出来てないけどチュートリアル - 檜山正幸のキマイラ飼育記](http://d.hatena.ne.jp/m-hiyama/20090907/1252284661)
 * [日本Hamlの会](http://haml.ursm.jp/)
 * [面白ラボBM11(ブッコミイレブン) 2009: Text::MicroTemplate::Extended](http://bm11.kayac.com/2009/project/text-microtemplate-extended/)
+* [Django テンプレート言語 ― Django v1.0 documentation](http://djangoproject.jp/doc/ja/1.0/topics/templates.html)
 
 !SLIDE
 # template engine?

@@ -57,6 +57,13 @@ speed(coding) by less typing
 concentrate on importance  
 all! all! all!
 
+!SLIDE
+all-in-one template-engine becomes *too* big.  
+too big template-engine *close* to PHP, but *not* PHP.  
+it's crazy.  
+
+!SLIDE
+#Programmer by oneself
 DRY
 No complex HTML & CSS
 Template inheritance

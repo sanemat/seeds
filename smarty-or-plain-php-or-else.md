@@ -65,6 +65,44 @@ it's crazy.
 !SLIDE
 #Programmer by oneself
 DRY
+
+!SLIDE code
+haml example via [日本hamlの会](http://haml.ursm.jp/)  
+    !!! XML
+    !!! 1.1
+    %html{:xmlns => 'http://www.w3.org/1999/xhtml'}
+      %head
+        %title Hello, Haml!
+      %body
+        #header
+          %h1 Hello, Haml!
+        #content
+          %p
+            I use Haml
+            %span.version= Haml::VERSION
+
+!SLIDE code
+haml example via [日本hamlの会](http://haml.ursm.jp/)  
+    <?xml version='1.0' encoding='utf-8' ?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+    <html xmlns='http://www.w3.org/1999/xhtml'>
+      <head>
+        <title>Hello, Haml!</title>
+      </head>
+      <body>
+        <div id='header'>
+          <h1>Hello, Haml!</h1>
+        </div>
+        <div id='content'>
+          <p>
+            I use Haml
+            <span class='version'>2.2.14 (Powerful Penny)</span>
+          </p>
+        </div>
+      </body>
+    </html>
+
+!SLIDE
 No complex HTML & CSS
 Template inheritance
 Testable

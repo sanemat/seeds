@@ -33,6 +33,7 @@ YES
         * limonade (php)
 
 !SLIDE
+# various template-engine (my interest)
 * [Smarty](http://www.smarty.net/)
 * [Plain PHP](http://www.php.net/)
 * [Tenjin](http://www.kuwata-lab.com/tenjin/)
@@ -75,7 +76,7 @@ PHPer also use framework.
 big framework has own template engine.  
 cakephp have plain php and helper class.  
 if framework have plugin system, it only for one framework.  
-Smarty however, work with many framework bad way.  
+Smarty however, work with many framework know-how bad way.  
 ANd how to use with smarty knowledge is shared.  
 Like QuickForm.  
 

@@ -49,7 +49,13 @@ YES
 * [wicket](http://wicket.apache.org/)
 
 !SLIDE
-Programmer by oneself
+# why do you use tempate-engine?
+separate business-logic from view  
+useful functions  
+speed(user experience) on compiled (no mention)  
+speed(coding) by less typing  
+concentrate on importance  
+all! all! all!
 
 DRY
 No complex HTML & CSS

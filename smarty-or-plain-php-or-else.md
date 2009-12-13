@@ -221,7 +221,7 @@ Like QuickForm.
 YES
 
 !SLIDE
-# but think porpose!
+# but think thing that is focused on!
 contact me  
 sanemat  
 [web site](http://sane.jp/)  

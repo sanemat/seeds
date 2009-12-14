@@ -179,19 +179,30 @@ django example via [Django テンプレート言語 ― Django v1.0 documentatio
 
 
 !SLIDE
-Testable
+Testable  
+todo fill  
 
-Ajax & HTML5
-toward ExtJS
-PHP template engine?
+Ajax & HTML5  
+toward ExtJS  
+
+![json-api](http://satoshi.blogs.com/.a/6a00d8341c4f9853ef0120a5ef4cc2970b-800wi)  
+via <http://satoshi.blogs.com/life/2009/10/restful-mvcなアーキテクチャの話.html>
+
+PHP template engine?  
 
 !SLIDE
-Separation
+# Separation
+positive - collabolation
+negative - responsibility on agreement between corporation
 
-Sandbox
-default html-escaped
-responsibility
-dreamweaver-friendly
+Sandbox  
+twig  
+
+default html-escaped  
+dreamweaver-friendly  
+PHPTAL  
+
+Caty  
 
 template engine?
 
@@ -204,6 +215,10 @@ if framework have plugin system, it only for one framework.
 Smarty however, work with many framework know-how bad way.  
 ANd how to use with smarty knowledge is shared.  
 Like QuickForm.  
+
+!SLIDE
+Lithium (Cake3)  
+yandod transrated  
 
 !SLIDE
 # tutorial resource in japanese

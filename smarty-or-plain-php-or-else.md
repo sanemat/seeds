@@ -181,29 +181,38 @@ django example via [Django テンプレート言語 ― Django v1.0 documentatio
 !SLIDE
 Testable  
 todo fill  
+selenium tsukattara make  
 
 Ajax & HTML5  
 toward ExtJS  
 
 ![json-api](http://satoshi.blogs.com/.a/6a00d8341c4f9853ef0120a5ef4cc2970b-800wi)  
-via <http://satoshi.blogs.com/life/2009/10/restful-mvcなアーキテクチャの話.html>
+via <http://satoshi.blogs.com/life/2009/10/restful-mvcなアーキテクチャの話.html>  
+or WEB+DB PRESS modern  
 
 PHP template engine?  
 
 !SLIDE
 # Separation
-positive - collabolation
-negative - responsibility on agreement between corporation
+positive - collabolation  
+negative - responsibility on agreement between corporation  
 
 Sandbox  
-twig  
 
+!SLIDE
+#twig  
+
+!SLIDE
 default html-escaped  
 dreamweaver-friendly  
+
+!SLIDE
 PHPTAL  
 
+!SLIDE
 Caty  
 
+!SLIDE
 template engine?
 
 !SLIDE

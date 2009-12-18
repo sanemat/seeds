@@ -7,7 +7,6 @@
 !SLIDE
 
 # self introduction
-
 * murahashi kenichi (a.k.a sanemat)
 * web programmer
 * use
@@ -22,16 +21,9 @@
         * limonade (php)
 
 !SLIDE
-
-contact me
-
-sanemat
-
-[web site](http://sane.jp/)
-
-[weblog](http://sane.justblog.jp/)
-
-[twitter:sanemat](http://twitter.com/sanemat)
-
-[github:sanemat](http://github.com/sanemat)
-
+contact me  
+sanemat  
+[web site](http://sane.jp/)  
+[weblog](http://sane.justblog.jp/)  
+[twitter:sanemat](http://twitter.com/sanemat)  
+[github:sanemat](http://github.com/sanemat)  

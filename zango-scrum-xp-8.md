@@ -3,6 +3,10 @@
 - murahashi sanemat kenichi
 
 !SLIDE
+# 提供
+- hiro_y
+
+!SLIDE
 # 8. チームの部屋をどう改造するか
 
 !SLIDE

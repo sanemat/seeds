@@ -3,6 +3,10 @@
 - murahashi sanemat kenichi
 
 !SLIDE
+# 提供
+- hiro_y
+
+!SLIDE
 # 7. どうやってスプリントバックログを扱うか
 
 !SLIDE

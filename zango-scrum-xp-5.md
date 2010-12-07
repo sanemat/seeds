@@ -3,6 +3,10 @@
 - さねまつ sanemat, murahashi kenichi
 
 !SLIDE
+# 提供
+- hiro_y
+
+!SLIDE
 # 5. どうやってスプリントを計画するか
 
 !SLIDE
